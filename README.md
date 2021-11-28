@@ -15,7 +15,7 @@ We have attempted to derive - Twit Score, Profile Score and Financial Score for 
 
 For evaluating a user we use the flow as discussed above
 
-$Behavioral \; Score = Twit \; Score + Profile \; Score + Financial \; Score $
+Behavioral Score = Twit Score + Profile Score + Financial Score
 
 The user data is collected using Tweepy, a Python library for accessing the Twitter
 API. 
